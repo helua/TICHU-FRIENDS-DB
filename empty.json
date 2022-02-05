@@ -1,0 +1,17 @@
+{
+  "games": [
+   
+  ],
+  "bigGames": [
+   
+  ],
+  "players": [
+    {"name": "Ania"},
+    {"name": "Helio"},
+    {"name": "Kostek"},
+    {"name": "Igor"},
+    {"name": "Panczez"},
+    {"name": "Walc"},
+    {"name": "Mikele"}
+  ]
+}
